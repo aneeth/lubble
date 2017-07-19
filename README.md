@@ -8,8 +8,10 @@ A workaround is to click the URL bar so that there is a screen overlay, and then
 
 ### Test App
 [https://lubble.herokuapp.com/](https://lubble.herokuapp.com/)
+**username**: username
+**password**: password
 
-### Versions
-Android: 4.4.4, 6.0.1
-Google Chrome: 52.x.x.x (no issues), 59.0.3071.125 
-Chrome Beta: 60.0.3112.66 
+### Tested Versions
+**Android**: 4.4.4, 6.0.1
+**Google Chrome**: 52.x.x.x (no issues), 59.0.3071.125 
+**Chrome Beta**: 60.0.3112.66 
